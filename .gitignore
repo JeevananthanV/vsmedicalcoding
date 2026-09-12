@@ -2,9 +2,6 @@
 node_modules/
 frontend/node_modules/
 
-# Production builds
-dist/
-frontend/dist/
 
 # Environment and local configurations
 .env
