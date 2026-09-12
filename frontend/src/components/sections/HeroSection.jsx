@@ -28,15 +28,16 @@ export const HeroSection = ({ onOpenInquiry }) => {
   return (
     <section id="home" className="relative min-h-[88vh] flex flex-col justify-center overflow-hidden py-14 sm:py-18 bg-obsidian-950">
       
-      {/* Background Graphic Asset with Obsidian Luxury Overlay */}
-      <div className="absolute inset-0 z-0">
+      {/* Background Graphic Asset with Crystal Clarity */}
+      <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none">
         <img
           src="/hero_bg.jpg"
-          alt="High-tech Medical Coding Workstation"
-          className="w-full h-full object-cover object-center opacity-30 filter brightness-70 contrast-125"
+          alt="High-tech Medical Coding Workstation with ICD-10 Coding and Anatomy Charts"
+          className="w-full h-full object-cover object-center opacity-50"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-obsidian-950 via-obsidian-950/85 to-obsidian-950/70" />
-        <div className="absolute inset-0 bg-gradient-to-r from-obsidian-950 via-obsidian-950/85 to-transparent" />
+        {/* Refined subtle gradient to ensure text readability while preserving image sharpness */}
+        <div className="absolute inset-0 bg-gradient-to-t from-obsidian-950 via-obsidian-950/80 to-obsidian-950/50" />
+        <div className="absolute inset-0 bg-gradient-to-b from-obsidian-950/60 via-transparent to-obsidian-950/90" />
       </div>
 
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 w-full text-center">
