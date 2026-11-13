@@ -44,3 +44,4 @@ npm run build
 npm run preview
 ```
 Output bundle is generated in `frontend/dist/`.
+
