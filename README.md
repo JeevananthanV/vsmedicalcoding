@@ -1,8 +1,23 @@
-# VS Medical Coding Academy
+# VS Medical Coding Academy — Web Platform
+
+[![Repository](https://img.shields.io/badge/GitHub-JeevananthanV%2Fvsmedicalcoding-blue?logo=github)](https://github.com/JeevananthanV/vsmedicalcoding)
+[![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Vite-61DAFB?logo=react&logoColor=white)](https://react.dev)
+[![TailwindCSS](https://img.shields.io/badge/UI-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![FramerMotion](https://img.shields.io/badge/Animation-Framer%20Motion-black?logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
 > **Learn . Discipline . Success**
 
 A high-converting, responsive single-page web application for **VS Medical Coding Academy** (headquartered in Salem, Tamil Nadu), built with **React.js + Vite**, **Tailwind CSS**, and **Framer Motion**.
+
+---
+
+## 🔗 Repository Links
+
+| Detail | Link |
+|---|---|
+| **GitHub Repository** | [https://github.com/JeevananthanV/vsmedicalcoding](https://github.com/JeevananthanV/vsmedicalcoding) |
+| **Author** | [Jeevananthan V](https://github.com/JeevananthanV) |
+| **Dev Server** | `http://localhost:5173` |
 
 ---
 
@@ -23,9 +38,12 @@ A high-converting, responsive single-page web application for **VS Medical Codin
 
 ## 🚀 Getting Started Locally
 
-### Prerequisites
-- Node.js (v18 or newer)
-- npm or yarn
+### Clone Repository
+
+```bash
+git clone https://github.com/JeevananthanV/vsmedicalcoding.git
+cd vsmedicalcoding
+```
 
 ### Installation & Run
 
@@ -65,4 +83,10 @@ npm run preview
 
 ---
 
-© VS Medical Coding Academy. Salem, Tamil Nadu, India.
+## 👨‍💻 Author
+
+**Jeevananthan V** — [@JeevananthanV](https://github.com/JeevananthanV)
+
+## License
+
+MIT
