@@ -1,4 +1,4 @@
-      import React from 'react';
+import React from 'react';
 import { Phone, Sparkles, Clock, ArrowRight, Instagram } from 'lucide-react';
 
 export const TopAnnouncementBar = ({ onOpenInquiry }) => {

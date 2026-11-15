@@ -85,9 +85,11 @@ export const Navbar = ({ onOpenInquiry }) => {
           <div>
             <div className="flex items-center gap-1.5">
               <span className="font-display font-extrabold text-lg sm:text-xl tracking-tight text-white group-hover:text-gold-300 transition-colors">
+                VS Academy
               </span>
             </div>
             <p className="text-[10px] sm:text-xs text-gold-400 tracking-wider uppercase font-semibold">
+              Medical Coding
             </p>
           </div>
         </a>
